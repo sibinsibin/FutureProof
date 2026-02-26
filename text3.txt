@@ -1,1 +1,1 @@
-something is created new just now.
+something is created: new just now.
